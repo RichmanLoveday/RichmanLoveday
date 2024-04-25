@@ -1,4 +1,4 @@
-# Hi there! 👋
+git init# Hi there! 👋
 
 I'm Richman Loveday, a passionate Full Stack PHP Developer with a love for creating efficient and user-friendly web applications. Welcome to my GitHub profile! Here's a bit about me:
 

@@ -43,6 +43,7 @@ I'm Richman Loveday, a passionate Full Stack PHP Developer with a love for creat
 ## Get in Touch
 
 - LinkedIn: [Richman Loveday](link-to-linkedin)
+- Twitter: [Loveday Richman](https://twitter.com/okere_loveday)
 - Email: [lovedayrichman@yahoo.com](mailto:lovedayrichman@yahoo.com)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
